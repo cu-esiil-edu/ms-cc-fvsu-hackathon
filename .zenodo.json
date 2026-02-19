@@ -1,0 +1,7 @@
+{
+  "title": "MS-CC FVSU Machine Learning Hackathon",
+  "upload_type": "software",
+  "description": "Code and instructional notebooks used for the MS-CC Machine Learning Hackathon hosted at Fort Valley State University by ESIIL.",
+  "keywords": ["environmental data science", "hackathon", "machine learning", "ESIIL", "MS-CC"],
+  "license": "MIT"
+}
