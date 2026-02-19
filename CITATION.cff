@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "MS-CC FVSU Machine Learning Hackathon Materials"
+message: "If you use these materials, please cite them using the DOI below."
+authors:
+  - family-names: Quarderer
+    given-names: Nathan
+    affiliation: University of Colorado Boulder
+  - family-names: ESIIL Education Team
+version: 1.0.0
+date-released: 2026-01-20
+repository-code: https://github.com/cu-esiil-edu/ms-cc-fvsu-hackathon
+license: MIT
